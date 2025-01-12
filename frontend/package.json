@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://Dimka1989k.github.io/todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
