@@ -1,7 +1,6 @@
 {
   "name": "frontend",  
   "version": "0.1.0",
-  "homepage": "https://Dimka1989k.github.io/todo-app",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
